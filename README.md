@@ -1,4 +1,4 @@
-# Taiwan-Eye-Dataset
+# Taiwan-Small-Eye-Dataset
 
 Model: Prof. Rung-Ching Chen
 
