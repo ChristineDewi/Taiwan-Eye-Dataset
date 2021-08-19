@@ -12,6 +12,11 @@ Duration: 1 to 3 minutes for each video.
 
 OpenCV 2.4.6
 
+# Youtube :
+# Eye Blinks Detection with Eye Aspect Ratio and Facial Landmarks
+https://www.youtube.com/watch?v=lO-yAWMtDAk&t=62s
+# Eye Blinks Video Labeling with Open CV 2.4.6
+https://www.youtube.com/watch?v=V4gY8upL4tA&t=5s
 Christine Dewi
 E-mail : 
 christine.dewi13@gmail.com 
