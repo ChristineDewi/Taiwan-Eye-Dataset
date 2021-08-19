@@ -17,6 +17,12 @@ OpenCV 2.4.6
 https://www.youtube.com/watch?v=lO-yAWMtDAk&t=62s
 # Eye Blinks Video Labeling with Open CV 2.4.6
 https://www.youtube.com/watch?v=V4gY8upL4tA&t=5s
+https://www.youtube.com/watch?v=cgIkfe9XK_c&t=199s
+# Eye Blink Detection with Interface
+https://www.youtube.com/watch?v=Q0kUGyfAOxQ&t=14s
+https://www.youtube.com/watch?v=JhURGs96k44
+
+
 Christine Dewi
 E-mail : 
 christine.dewi13@gmail.com 
