@@ -24,7 +24,9 @@ https://www.youtube.com/watch?v=JhURGs96k44
 
 
 Christine Dewi
+
 E-mail : 
+
 christine.dewi13@gmail.com 
 christine.dewi@uksw.edu, 
 s10714904@cyut.edu.tw
